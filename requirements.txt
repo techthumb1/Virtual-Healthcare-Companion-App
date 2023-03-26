@@ -1,0 +1,11 @@
+Django
+djangorestframework
+psycopg2-binary
+dj-database-url
+django-cors-headers
+django-environ
+pandas
+numpy
+scikit-learn
+tensorflow
+torch
